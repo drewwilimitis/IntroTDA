@@ -1,4 +1,4 @@
-**Resources**:
+### **Resources**:
 ___
 
 Overall collection of links for TDA: 
